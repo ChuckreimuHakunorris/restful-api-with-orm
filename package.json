@@ -1,0 +1,27 @@
+{
+  "name": "restful-api-with-orm",
+  "version": "1.0.0",
+  "description": "Exercise for testing restful api routing with orm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuckreimuHakunorris/restful-api-with-orm.git"
+  },
+  "keywords": [
+    "restful",
+    "api",
+    "orm"
+  ],
+  "author": "Ville Laaksonen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChuckreimuHakunorris/restful-api-with-orm/issues"
+  },
+  "homepage": "https://github.com/ChuckreimuHakunorris/restful-api-with-orm#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
